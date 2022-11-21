@@ -6,9 +6,9 @@
 <img src="https://img.shields.io/badge/-HTML-orange"/> <img src="https://img.shields.io/badge/-CSS-blue"/> <img src="https://img.shields.io/badge/-Bootstrap-blueviolet"/>
 
 #The Complete 2022 Web Development Bootcamp
-Part of the Bootcamp "The Complete 2022 Web Development", by appbrewery.
+Part of the Bootcamp "The Complete 2022 Web Development".
 <br/>
-by Dr. Satyaprakash Singh
+by Satyaprakash Singh
 <br/>
 
 
